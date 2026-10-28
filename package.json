@@ -1,0 +1,14 @@
+{
+  "name": "n-baby-need",
+  "version": "1.0.0",
+  "description": "N Baby Need — د ماشومانو خواړه او پاملرنه",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=16" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
